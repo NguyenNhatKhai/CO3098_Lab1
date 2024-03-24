@@ -1,0 +1,6 @@
+`define STATE_INIT 4'b1111
+`define STATE_UP_5 4'b0000
+`define STATE_UP_10 4'b0001
+`define STATE_UP_15 4'b0010
+`define STATE_DOWN_0 4'b0100
+`define STATE_DOWN_5 4'b0101
